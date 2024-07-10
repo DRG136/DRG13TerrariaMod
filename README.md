@@ -5,3 +5,5 @@ pre-bosses part of Pre-Hardmode. The main materials needed for the items are Woo
 Vertebra/Rotten Chunk and Fallen Stars. The mod aims to better define each class identity while adding some tools to buff them.
 
 The content added by me is in the Content folder.
+To play the mod download TModLoader from steam and search for the mod in the workshop. Once subscribed you can enable it in TModLoader and it
+will automatically apply to the worlds you create.
