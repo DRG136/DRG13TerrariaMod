@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4D5Rubjaqhl9lNjtP27ne3gvwq5XQ5lQgh0j3whoWRk1FzfcMnCtvo1lKZD0PqVvQbhW/8C0bPVc4rGtX2m5YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Drg13Mod\\Drg13Mod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
